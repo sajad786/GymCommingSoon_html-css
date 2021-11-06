@@ -1,0 +1,40 @@
+body{
+    background-image:url("../images/dumble.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   font-family: 'Playfair Display', serif;
+    
+    }
+h1{
+   
+    font-size:2em;
+    color:white;
+ 
+}
+
+div{
+    margin: 200px auto;
+    width:40%;
+    text-align: center;
+    background-color: #0B7684;
+    border-radius: 25px;
+    opacity:0.8;
+    font-family: 'Playfair Display', serif; 
+    padding-bottom:5px;
+}
+
+button{
+    background-color: rgba(50,50,50);
+    font-size:2em;
+    color:white;
+    padding:10px;
+    border: 2px white solid;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
